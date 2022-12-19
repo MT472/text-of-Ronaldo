@@ -1,0 +1,33 @@
+body{
+    background-color: blue ;
+}
+.mom{
+     background-color: aqua;
+     direction: rtl;
+     padding: 15px ;
+     font-size: 22px;
+     margin: 50px 15%;
+     border-top: white 5px dashed ;
+}
+#best{
+    text-align: center;
+    padding: 0 15px;
+   line-height: 30px ;
+    font-family: font;
+}
+#cris{
+    color: firebrick;
+    text-align: center;
+}
+.dad{
+    background-color: white;
+    padding: 5px 25px;
+    cursor: pointer;
+    border-radius: 3px;
+    float: left;
+    box-shadow: darkgray 2px 2px;
+    font-family: font;
+}
+@font-face{font-family:font ; 
+src: url(MolsaqArabic-ExtraBold.ttf);
+}
